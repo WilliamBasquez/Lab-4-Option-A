@@ -107,7 +107,6 @@ def reader():
     #filename = "glove.6B.50d.txt"
     #filename = "20000lines.txt"
     #filename = "40000lines.txt"
-    #filename = "half_file.txt"
     filename = "new_list.txt"
     #filename = "temp.txt"
     #filename = "words.txt"
